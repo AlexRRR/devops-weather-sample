@@ -1,0 +1,4 @@
+github.com/briandowns/openweathermap v0.0.0-20180804155945-5f41b7c9d92d h1:28xWzPQ9bdGxKAAwQpZipZZ9Xz8kQcgMPF9cZnvMeuI=
+github.com/briandowns/openweathermap v0.0.0-20180804155945-5f41b7c9d92d/go.mod h1:8g1Bgq9PbPpXIA3sdlWmWf2JpiWGJee/O4Q+ddYO6+k=
+github.com/gorilla/mux v1.7.1 h1:Dw4jY2nghMMRsh1ol8dv1axHkDwMQK2DHerMNJsIpJU=
+github.com/gorilla/mux v1.7.1/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
